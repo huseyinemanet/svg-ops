@@ -1,0 +1,161 @@
+{
+  "fixtures": [
+    {
+      "name": "line-art-png",
+      "source": "generated:line-art",
+      "format": "png",
+      "mode": "lineArt",
+      "quality": "balanced",
+      "fill": "currentColor",
+      "minPaths": 1,
+      "maxPaths": 80,
+      "maxBytes": 80000,
+      "cropAllowed": true
+    },
+    {
+      "name": "single-colour-png",
+      "source": "generated:single-colour",
+      "format": "png",
+      "mode": "singleColour",
+      "quality": "accurate",
+      "fill": "currentColor",
+      "minPaths": 1,
+      "maxPaths": 80,
+      "maxBytes": 80000,
+      "cropAllowed": true
+    },
+    {
+      "name": "thick-fill-png",
+      "source": "generated:thick-fill",
+      "format": "png",
+      "mode": "singleColour",
+      "quality": "clean",
+      "fill": "currentColor",
+      "minPaths": 1,
+      "maxPaths": 80,
+      "maxBytes": 80000,
+      "cropAllowed": true
+    },
+    {
+      "name": "small-icon-png",
+      "source": "generated:small-icon",
+      "format": "png",
+      "mode": "lineArt",
+      "quality": "clean",
+      "fill": "currentColor",
+      "minPaths": 1,
+      "maxPaths": 80,
+      "maxBytes": 80000,
+      "cropAllowed": true
+    },
+    {
+      "name": "large-empty-canvas-png",
+      "source": "generated:large-empty-canvas",
+      "format": "png",
+      "mode": "lineArt",
+      "quality": "balanced",
+      "fill": "currentColor",
+      "minPaths": 1,
+      "maxPaths": 80,
+      "maxBytes": 80000,
+      "cropAllowed": true
+    },
+    {
+      "name": "thin-line-jpg",
+      "source": "generated:thin-line",
+      "format": "jpg",
+      "mode": "lineArt",
+      "quality": "accurate",
+      "fill": "currentColor",
+      "minPaths": 1,
+      "maxPaths": 80,
+      "maxBytes": 80000,
+      "cropAllowed": true
+    },
+    {
+      "name": "two-colour-png",
+      "source": "generated:two-colour",
+      "format": "png",
+      "mode": "twoColours",
+      "quality": "balanced",
+      "fill": "currentColor",
+      "minPaths": 1,
+      "maxPaths": 250,
+      "maxBytes": 180000,
+      "cropAllowed": false
+    },
+    {
+      "name": "three-colour-png",
+      "source": "generated:three-colour",
+      "format": "png",
+      "mode": "threeColours",
+      "quality": "balanced",
+      "fill": "currentColor",
+      "minPaths": 1,
+      "maxPaths": 250,
+      "maxBytes": 180000,
+      "cropAllowed": false
+    },
+    {
+      "name": "two-colour-jpg",
+      "source": "generated:two-colour",
+      "format": "jpg",
+      "mode": "twoColours",
+      "quality": "clean",
+      "fill": "currentColor",
+      "minPaths": 1,
+      "maxPaths": 250,
+      "maxBytes": 180000,
+      "cropAllowed": false
+    },
+    {
+      "name": "transparent-alpha-png",
+      "source": "generated:alpha-icon",
+      "format": "png",
+      "mode": "singleColour",
+      "quality": "balanced",
+      "fill": "currentColor",
+      "minPaths": 1,
+      "maxPaths": 80,
+      "maxBytes": 80000,
+      "cropAllowed": true
+    },
+    {
+      "name": "diagonal-line-png",
+      "source": "generated:diagonal-line",
+      "format": "png",
+      "mode": "lineArt",
+      "quality": "accurate",
+      "fill": "currentColor",
+      "minPaths": 1,
+      "maxPaths": 80,
+      "maxBytes": 80000,
+      "cropAllowed": true
+    },
+    {
+      "name": "three-colour-icon-png",
+      "source": "generated:three-colour-icon",
+      "format": "png",
+      "mode": "threeColours",
+      "quality": "clean",
+      "fill": "currentColor",
+      "minPaths": 1,
+      "maxPaths": 250,
+      "maxBytes": 180000,
+      "cropAllowed": false
+    },
+    {
+      "name": "webp-line-art",
+      "source": "generated:line-art",
+      "format": "webp",
+      "mode": "lineArt",
+      "quality": "balanced",
+      "fill": "currentColor",
+      "minPaths": 1,
+      "maxPaths": 80,
+      "maxBytes": 80000,
+      "cropAllowed": true,
+      "optional": true
+    }
+  ]
+}
